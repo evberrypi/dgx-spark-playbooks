@@ -151,7 +151,7 @@ After this, you should be able to run docker commands without using `sudo`.
 
 ```bash
 docker pull nvcr.io/nvidia/vllm:25.09-py3
-export VLLM_IMAGE=nvcr.io/nvidia/vllm:25.09-py3
+export VLLM_IMAGE=nvcr.io/nvidia/vllm:25.11-py3
 ```
 
 
